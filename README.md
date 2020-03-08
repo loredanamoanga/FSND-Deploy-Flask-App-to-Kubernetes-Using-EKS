@@ -28,6 +28,8 @@ The app relies on a  secret set as the environment variable `JWT_SECRET` to prod
 
 Completing the project involves several steps:
 
+
+
 1. Write a Dockerfile for a simple Flask API
 2. Build and test the container locally
 3. Create an EKS cluster
